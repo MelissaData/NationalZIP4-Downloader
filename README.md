@@ -2,7 +2,7 @@
 
 This is the script that downloads National ZIP+4 for you to use.
 
-For the latest Melissa National ZIP+4 release notes, please visit:
+To view the latest Melissa National ZIP+4 release notes or to subscribe to product notifications, please visit:
 - https://releasenotes.melissa.com/reference-data/national-zip4/
 
 
